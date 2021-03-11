@@ -42,8 +42,8 @@ namespace SeatReservation
 ```
 
 
-# Server 
+## Server 
 Server produces functionalities such as Init, Lock, Reserve, Buy and others as well. 
 
-# Client
+## Client
 Client-side can send only Lock, Reserve and Buy.
